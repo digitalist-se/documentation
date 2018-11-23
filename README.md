@@ -1,6 +1,4 @@
 # Documentation
-First starter for shared documentation to reference and readme template to use.
-Please refer to the Wiki-page!
+This README is a starter for your project. Please have a look at the (Wiki-page)[https://github.com/nodeone/documentation/wiki] and remember to keep references to it. *Please improve where needed!*
 
-## Template for new projects
-Download this file to your new project!
+# Project README
