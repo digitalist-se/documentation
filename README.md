@@ -41,11 +41,18 @@ This is a Drupal 7 site
 
 ### Team
 This project is in the warm caring loving serenity of [Team XYZ](https://sites.google.com/digitalistgroup.com/teamxyz/home)
+#### 2016 - Today
+- Name 1 (Developer)
+    - What has Name 1 done so far?
+#### 2017 - Today
+- Name 1 (Backend)
+    - What has Name 1 done so far?
 ### Previous contributors
-- Person 1 (Developer) Module X
-- Person 2 (Developer) Did menu work
-- Person 3 (Architecture)
-- Person 4 (Demands) [Not employed]
+#### 2015 - 2016 
+- Name 1 (Developer and Architecture)
+    - What did Name 1 do?
+- Name 2 (Developer) [Not employed]
+    - What did Name 2 do?
 ### Client information
 Read more on [client google site](https://sites.google.com/digitalistgroup.com/st-facket/startsida)
 
