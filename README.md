@@ -9,7 +9,7 @@ This README is a starter for your project. Please have a look at the [Documentat
 
 ## Requirements
 Check you have the requirements installed (Make sure specific versions required are noted)
-* Lando
+* [Lando](https://docs.devwithlando.io/)
 * [Docker](https://docs.docker.com/)
 * npm
 * nvm
@@ -21,6 +21,13 @@ Check you have the requirements installed (Make sure specific versions required 
 ```
 lando start
 lando composer install
+```
+
+### Frontend
+```
+# Install frontend dependencies and build CSS and Javascript.
+$ lando npm install
+$ lando gulp compile
 ```
 
 ## Special implementations
