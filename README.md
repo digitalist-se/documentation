@@ -47,6 +47,9 @@ This project is in the warm caring loving serenity of [Team XYZ](https://sites.g
 #### 2017 - Today
 - Name 1 (Backend)
     - What has Name 1 done so far?
+- Name 2 (Project manager)
+    - What has Name 2 done so far?
+    - What has Name 2 done so far?
 ### Previous contributors
 #### 2015 - 2016 
 - Name 1 (Developer and Architecture)
