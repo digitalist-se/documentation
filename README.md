@@ -40,10 +40,10 @@ This is a Drupal 7 site
 ### Team
 This project is in the warm caring loving serenity of Team XYZ
 ### Previous contributors
-- Person 1 (Developer)
-- Person 2 (Developer)
+- Person 1 (Developer) Module X
+- Person 2 (Developer) Did menu work
 - Person 3 (Architecture)
-- Person 4 (Demands)
+- Person 4 (Demands) [Not employed]
 ### Client information
 Read more on [client google site](https://sites.google.com/digitalistgroup.com/st-facket/startsida)
 
