@@ -10,12 +10,13 @@ This README is a starter for your project. Please have a look at the [Documentat
 ## Requirements
 Check you have the requirements installed (Make sure specific versions required are noted)
 * Lando
-* [Docker](https://docs.docker.com/)
+* Docker
 * npm
 * nvm
 * node (6x)
 * Composer
-* [Dropcat](https://gitlab.wklive.net/wk-public/dropcat)
+* Dropcat
+[Please see required installs](https://github.com/nodeone/documentation/wiki/Required-installs) for the latest documentation and download info.
 
 ## Installation
 ```
