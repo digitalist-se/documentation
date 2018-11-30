@@ -1,6 +1,8 @@
 # Documentation
 This README is a starter for your project. Please have a look at the [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki) and remember to keep references to it. 
 
+Please, do not assume that everyone has the same knowledge as you do - put in all relevant steps from your mastermind too <:D
+
 **Please improve** this **README template** and **Documentation Wiki-page** where it's needed!
 
 # Example project title
