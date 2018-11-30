@@ -26,7 +26,8 @@ lando composer install
 ```
 
 ## Special implementations
-> CRM-NAME is the CRM integration for this project
+> CRM-NAME is the CRM integration for this project.
+
 This project has CRM from provider X. All documentation can be found in this projects Wiki.
 
 
