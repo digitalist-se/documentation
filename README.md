@@ -40,7 +40,7 @@ This is a Drupal 7 site
 * [Preprod site](http://clientpage.dgpreprod.se)
 
 ### Team
-This project is in the warm caring loving serenity of Team XYZ
+This project is in the warm caring loving serenity of [Team XYZ](https://sites.google.com/digitalistgroup.com/teamxyz/home)
 ### Previous contributors
 - Person 1 (Developer) Module X
 - Person 2 (Developer) Did menu work
