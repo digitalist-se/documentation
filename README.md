@@ -62,7 +62,8 @@ This project is in the warm caring loving serenity of [Team XYZ](https://sites.g
 Read more on [client google site](https://sites.google.com/digitalistgroup.com/st-facket/startsida)
 
 ### Supported browsers
-Aside from standard browser support [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki/browser-support) this project needs specifically support THIS BROWSER.
+Aside from standard browser support [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki/browser-support) this project needs specifically support for:
+- THIS BROWSER.
 
 ## Troubleshooting
 Have a look at the [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki/troubleshooting)
