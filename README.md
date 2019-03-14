@@ -1,5 +1,5 @@
 # Documentation
-This README is a starter for your project. Please have a look at the [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki) and remember to keep references to it. 
+This README is a starter for your project. Please have a look at the [Documentation Wiki-page](https://github.com/digitalist-se/documentation/wiki) and remember to keep references to it. 
 
 Please, do not assume that everyone has the same knowledge as you do - put in all relevant steps from your mastermind too <:D
 
@@ -19,7 +19,7 @@ Check you have the requirements installed (Make sure specific versions required 
 * Composer
 * Dropcat
 
-[Please see Requirements](https://github.com/nodeone/documentation/wiki/Requirements) for the latest documentation and download info.
+[Please see Requirements](https://github.com/digitalist-se/documentation/wiki/Requirements) for the latest documentation and download info.
 
 ## Installation
 ```
@@ -62,11 +62,11 @@ This project is in the warm caring loving serenity of [Team XYZ](https://sites.g
 Read more on [client google site](https://sites.google.com/digitalistgroup.com/st-facket/startsida)
 
 ### Supported browsers
-Aside from standard browser support [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki/browser-support) this project needs specifically support for:
+Aside from standard browser support [Documentation Wiki-page](https://github.com/digitalist-se/documentation/wiki/browser-support) this project needs specifically support for:
 - THIS BROWSER.
 
 ## Troubleshooting
-Have a look at the [Documentation Wiki-page](https://github.com/nodeone/documentation/wiki/troubleshooting)
+Have a look at the [Documentation Wiki-page](https://github.com/digitalist-se/documentation/wiki/troubleshooting)
 ### Special quirks
 This site has really special quirks that sometime the earth turns slower and you need to restart something or clear the cache.
 ```
